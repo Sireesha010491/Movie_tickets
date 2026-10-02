@@ -22,4 +22,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: sireeshadockerhub91/movietickets:latest
+          tags: sireeshadockerhub91/movieapplication:latest
