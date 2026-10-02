@@ -1,7 +1,7 @@
 {
-  "name": "movietickets",
+  "name": "movieapplication",
   "version": "1.0.0",
-  "description": "Simple movie ticket booking app",
+  "description": "BookMyShow-style movie booking app",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
